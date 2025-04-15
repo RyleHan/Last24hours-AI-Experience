@@ -1,0 +1,7 @@
+openai==1.74.0
+pillow==11.2.1
+python-dotenv==1.1.0
+replicate==1.0.4
+requests==2.32.3
+
+
