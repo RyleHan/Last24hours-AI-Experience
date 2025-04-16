@@ -1,4 +1,5 @@
 # 🕯️ The Last 24 Hours – AI视觉情绪生成器
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 >  一个为“世界末日前的情绪表达”而设计的 AI 生成器。通过5个简单问题生成专属画面、文字和音乐推荐，帮助用户在AIGC中找到自己情绪的投影。
 
@@ -163,3 +164,10 @@ outputs/generated_poster.png
 
 > 如果你看到这里，希望能一起交流AI产品或合作开发，请联系我 😄
 
+---
+
+## 📜 版权声明
+
+本项目由 [Erhan Lai](https://github.com/RyleHan/Last24hours-AI-Experience) 独立设计与开发，版权所有 © 2025。
+
+本项目遵循 [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)，禁止用于商业用途与改编创作，转载请注明出处。
